@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumGit", "SeleniumGit\SeleniumGit.csproj", "{DB885F64-0265-445D-8B5C-DD55A2506BE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB885F64-0265-445D-8B5C-DD55A2506BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB885F64-0265-445D-8B5C-DD55A2506BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB885F64-0265-445D-8B5C-DD55A2506BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB885F64-0265-445D-8B5C-DD55A2506BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {964214AF-78CC-4B7A-BDFE-7F941A3B8D99}
+	EndGlobalSection
+EndGlobal
