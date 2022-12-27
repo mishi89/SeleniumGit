@@ -11,7 +11,7 @@ namespace SeleniumGit
         [Test]
         public void Test1()
         {
-            Assert.Pass();
+            TestContext.Progress.WriteLine("++++++++++++++++Test ++++++++++++++++");
         }
     }
 }
